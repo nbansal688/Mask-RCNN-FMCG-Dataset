@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Akshay</folder>
+	<filename>6164_59_63160_69_2018-02-12T08-29-14-975Z.jpg</filename>
+	<path>/home/stallians/Downloads/ashish 2/Akshay/6164_59_63160_69_2018-02-12T08-29-14-975Z.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>409</width>
+		<height>728</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>reject</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>259</ymin>
+			<xmax>278</xmax>
+			<ymax>410</ymax>
+		</bndbox>
+	</object>
+</annotation>

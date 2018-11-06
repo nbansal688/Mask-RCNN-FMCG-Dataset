@@ -1,0 +1,26 @@
+<annotation>
+	<folder>gillette</folder>
+	<filename>3651_59_44901_69_2018-02-15T12-36-58-129Z.jpg</filename>
+	<path>D:\Ashu\windows_v1.6.1\gillette\3651_59_44901_69_2018-02-15T12-36-58-129Z.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>409</width>
+		<height>728</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>reject</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>143</xmin>
+			<ymin>233</ymin>
+			<xmax>216</xmax>
+			<ymax>341</ymax>
+		</bndbox>
+	</object>
+</annotation>

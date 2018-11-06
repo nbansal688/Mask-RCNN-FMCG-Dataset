@@ -1,0 +1,26 @@
+<annotation>
+	<folder>gillette</folder>
+	<filename>3664_55_40078_69_2018-02-13T10-51-24-241Z.jpg</filename>
+	<path>D:\Ashu\windows_v1.6.1\gillette\3664_55_40078_69_2018-02-13T10-51-24-241Z.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>409</width>
+		<height>728</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>venus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>402</ymin>
+			<xmax>218</xmax>
+			<ymax>506</ymax>
+		</bndbox>
+	</object>
+	</annotation>

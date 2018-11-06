@@ -1,0 +1,26 @@
+<annotation>
+	<folder>gillette</folder>
+	<filename>1272_59_59207_69_2018-02-19T10-34-47-585Z.jpg</filename>
+	<path>/home/stallians/Downloads/ashish 2/gillette/1272_59_59207_69_2018-02-19T10-34-47-585Z.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>728</width>
+		<height>970</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ambipure</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>281</xmin>
+			<ymin>233</ymin>
+			<xmax>555</xmax>
+			<ymax>513</ymax>
+		</bndbox>
+	</object>
+	</annotation>

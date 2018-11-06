@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Beauty</folder>
+	<filename>652_60_47870_68_2018-04-02T09-00-21-700Z.jpg</filename>
+	<path>C:\Users\Mundhare\Desktop\hacker earth\annotation 28-05-18\akash\Beauty\652_60_47870_68_2018-04-02T09-00-21-700Z.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>728</width>
+		<height>409</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>venus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>74</ymin>
+			<xmax>87</xmax>
+			<ymax>118</ymax>
+		</bndbox>
+	</object>
+</annotation>

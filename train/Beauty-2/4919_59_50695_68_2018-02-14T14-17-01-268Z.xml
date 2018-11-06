@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Beauty-2</folder>
+	<filename>4919_59_50695_68_2018-02-14T14-17-01-268Z.jpg</filename>
+	<path>F:\hacker earth\annotation 28-05-18\akash\Beauty-2\4919_59_50695_68_2018-02-14T14-17-01-268Z.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>728</width>
+		<height>546</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gillete</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>616</xmin>
+			<ymin>14</ymin>
+			<xmax>667</xmax>
+			<ymax>89</ymax>
+		</bndbox>
+	</object>
+</annotation>

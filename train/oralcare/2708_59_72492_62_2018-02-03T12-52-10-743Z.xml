@@ -1,0 +1,26 @@
+<annotation>
+	<folder>oralcare</folder>
+	<filename>2708_59_72492_62_2018-02-03T12-52-10-743Z.jpg</filename>
+	<path>E:\ML-DL\Hackerearth\folder3\oralcare\2708_59_72492_62_2018-02-03T12-52-10-743Z.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>728</width>
+		<height>970</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gillette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>105</ymin>
+			<xmax>95</xmax>
+			<ymax>282</ymax>
+		</bndbox>
+	</object>
+</annotation>

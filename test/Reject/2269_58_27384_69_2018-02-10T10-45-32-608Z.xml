@@ -1,0 +1,26 @@
+<annotation>
+	<folder>MK</folder>
+	<filename>2269_58_27384_69_2018-02-10T10-45-32-608Z.jpg</filename>
+	<path>C:\Users\Mk\Downloads\Compressed\windows_v1.7.0\windows_v1.7.0\MK\2269_58_27384_69_2018-02-10T10-45-32-608Z.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>409</width>
+		<height>728</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>reject</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>172</xmin>
+			<ymin>245</ymin>
+			<xmax>267</xmax>
+			<ymax>455</ymax>
+		</bndbox>
+	</object>
+</annotation>

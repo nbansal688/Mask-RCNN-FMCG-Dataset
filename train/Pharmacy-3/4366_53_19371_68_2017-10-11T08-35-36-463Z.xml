@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Pharmacy-3</folder>
+	<filename>4366_53_19371_68_2017-10-11T08-35-36-463Z.jpg</filename>
+	<path>F:\hacker earth\annotation 28-05-18\akash\Pharmacy-3\4366_53_19371_68_2017-10-11T08-35-36-463Z.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>436</width>
+		<height>728</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>oralcare</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>272</xmin>
+			<ymin>90</ymin>
+			<xmax>318</xmax>
+			<ymax>271</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>vicks</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>266</xmin>
+			<ymin>281</ymin>
+			<xmax>306</xmax>
+			<ymax>412</ymax>
+		</bndbox>
+	</object>
+</annotation>

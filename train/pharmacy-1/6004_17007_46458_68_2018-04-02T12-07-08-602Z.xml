@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pharmacy-1</folder>
+	<filename>6004_17007_46458_68_2018-04-02T12-07-08-602Z.jpg</filename>
+	<path>F:\hacker earth\annotation 28-05-18\akash\pharmacy-1\6004_17007_46458_68_2018-04-02T12-07-08-602Z.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>728</width>
+		<height>546</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vicks</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>149</ymin>
+			<xmax>257</xmax>
+			<ymax>195</ymax>
+		</bndbox>
+	</object>
+</annotation>

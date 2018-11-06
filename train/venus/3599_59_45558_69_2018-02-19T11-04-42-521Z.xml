@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>venus</folder>
+	<filename>3599_59_45558_69_2018-02-19T11-04-42-521Z.jpg</filename>
+	<path>D:\Ashu\windows_v1.6.1\folder3\venus\3599_59_45558_69_2018-02-19T11-04-42-521Z.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>546</width>
+		<height>728</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>venus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>195</xmin>
+			<ymin>145</ymin>
+			<xmax>342</xmax>
+			<ymax>429</ymax>
+		</bndbox>
+	</object>
+</annotation>

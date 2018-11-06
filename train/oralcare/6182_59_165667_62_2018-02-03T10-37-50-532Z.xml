@@ -1,0 +1,38 @@
+<annotation>
+	<folder>temp_test - Copy</folder>
+	<filename>6182_59_165667_62_2018-02-03T10-37-50-532Z.jpg</filename>
+	<path>E:\ML-DL\Hackerearth\temp_test - Copy\6182_59_165667_62_2018-02-03T10-37-50-532Z.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>546</width>
+		<height>728</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>oralb</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>266</xmin>
+			<ymin>361</ymin>
+			<xmax>319</xmax>
+			<ymax>548</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>oralb</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>332</xmin>
+			<ymin>350</ymin>
+			<xmax>386</xmax>
+			<ymax>547</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>gillette</folder>
+	<filename>1270_59_59056_69_2018-02-14T12-21-58-803Z.jpg</filename>
+	<path>/home/stallians/Downloads/ashish 2/gillette/1270_59_59056_69_2018-02-14T12-21-58-803Z.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>546</width>
+		<height>728</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>venus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>244</xmin>
+			<ymin>75</ymin>
+			<xmax>332</xmax>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+	</annotation>

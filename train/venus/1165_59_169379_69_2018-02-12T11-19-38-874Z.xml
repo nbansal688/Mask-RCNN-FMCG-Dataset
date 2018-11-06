@@ -1,0 +1,26 @@
+<annotation>
+	<folder>venus</folder>
+	<filename>1165_59_169379_69_2018-02-12T11-19-38-874Z.jpg</filename>
+	<path>D:\Ashu\windows_v1.6.1\folder3\venus\1165_59_169379_69_2018-02-12T11-19-38-874Z.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>728</width>
+		<height>981</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ambipur</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>266</xmin>
+			<ymin>176</ymin>
+			<xmax>361</xmax>
+			<ymax>455</ymax>
+		</bndbox>
+	</object>
+</annotation>

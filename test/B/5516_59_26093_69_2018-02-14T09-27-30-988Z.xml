@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Akshay</folder>
+	<filename>5516_59_26093_69_2018-02-14T09-27-30-988Z.jpg</filename>
+	<path>/home/stallians/Downloads/ashish 2/Akshay/5516_59_26093_69_2018-02-14T09-27-30-988Z.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>436</width>
+		<height>728</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>venus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>189</xmin>
+			<ymin>215</ymin>
+			<xmax>270</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+	</annotation>

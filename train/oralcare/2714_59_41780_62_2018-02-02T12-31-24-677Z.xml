@@ -1,0 +1,26 @@
+<annotation>
+	<folder>oralcare</folder>
+	<filename>2714_59_41780_62_2018-02-02T12-31-24-677Z.jpg</filename>
+	<path>E:\ML-DL\Hackerearth\folder3\oralcare\2714_59_41780_62_2018-02-02T12-31-24-677Z.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>728</width>
+		<height>970</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>oralb</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>285</xmin>
+			<ymin>491</ymin>
+			<xmax>388</xmax>
+			<ymax>608</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>done</folder>
+	<filename>1317_56_153657_69_2018-02-03T12-11-23-801Z.jpg</filename>
+	<path>D:\Ashu\windows_v1.6.1\folder3\venus\done\1317_56_153657_69_2018-02-03T12-11-23-801Z.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>436</width>
+		<height>728</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>reject</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>206</xmin>
+			<ymin>164</ymin>
+			<xmax>312</xmax>
+			<ymax>398</ymax>
+		</bndbox>
+	</object>
+</annotation>

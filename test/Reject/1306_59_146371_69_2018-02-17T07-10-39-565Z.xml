@@ -1,0 +1,26 @@
+<annotation>
+	<folder>gillette</folder>
+	<filename>1306_59_146371_69_2018-02-17T07-10-39-565Z.jpg</filename>
+	<path>/home/stallians/Downloads/ashish 2/gillette/1306_59_146371_69_2018-02-17T07-10-39-565Z.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>576</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>reject</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>223</xmin>
+			<ymin>331</ymin>
+			<xmax>461</xmax>
+			<ymax>518</ymax>
+		</bndbox>
+	</object>
+</annotation>

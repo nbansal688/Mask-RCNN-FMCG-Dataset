@@ -1,0 +1,26 @@
+<annotation>
+	<folder>MK</folder>
+	<filename>2614_59_55809_69_2018-02-13T11-04-56-292Z.jpg</filename>
+	<path>C:\Users\Mk\Downloads\Compressed\windows_v1.7.0\windows_v1.7.0\MK\2614_59_55809_69_2018-02-13T11-04-56-292Z.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>436</width>
+		<height>728</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>beauty</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>198</ymin>
+			<xmax>249</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+	</annotation>

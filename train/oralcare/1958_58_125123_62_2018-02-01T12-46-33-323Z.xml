@@ -1,0 +1,26 @@
+<annotation>
+	<folder>oralcare</folder>
+	<filename>1958_58_125123_62_2018-02-01T12-46-33-323Z.jpg</filename>
+	<path>E:\ML-DL\Hackerearth\folder3\oralcare\1958_58_125123_62_2018-02-01T12-46-33-323Z.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>409</width>
+		<height>728</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vicks</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>345</ymin>
+			<xmax>126</xmax>
+			<ymax>383</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>oralcare</folder>
+	<filename>6630_59_241098_62_2018-02-05T05-06-13-875Z.jpg</filename>
+	<path>H:\windows_v1.6.1\oralcare\6630_59_241098_62_2018-02-05T05-06-13-875Z.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>409</width>
+		<height>728</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>oralb</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>137</xmin>
+			<ymin>165</ymin>
+			<xmax>234</xmax>
+			<ymax>438</ymax>
+		</bndbox>
+	</object>
+</annotation>

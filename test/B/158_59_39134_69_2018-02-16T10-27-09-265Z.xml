@@ -1,0 +1,38 @@
+<annotation>
+	<folder>gillette</folder>
+	<filename>158_59_39134_69_2018-02-16T10-27-09-265Z.jpg</filename>
+	<path>/home/stallians/Downloads/ashish 2/gillette/158_59_39134_69_2018-02-16T10-27-09-265Z.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>728</width>
+		<height>970</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>beauty</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>319</xmin>
+			<ymin>378</ymin>
+			<xmax>499</xmax>
+			<ymax>534</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>beauty</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>275</xmin>
+			<ymin>699</ymin>
+			<xmax>475</xmax>
+			<ymax>945</ymax>
+		</bndbox>
+	</object>
+</annotation>

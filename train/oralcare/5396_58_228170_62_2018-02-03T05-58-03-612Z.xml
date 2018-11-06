@@ -1,0 +1,38 @@
+<annotation>
+	<folder>temp_test - Copy</folder>
+	<filename>5396_58_228170_62_2018-02-03T05-58-03-612Z.jpg</filename>
+	<path>E:\ML-DL\Hackerearth\temp_test - Copy\5396_58_228170_62_2018-02-03T05-58-03-612Z.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>546</width>
+		<height>728</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pharmacy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>523</ymin>
+			<xmax>219</xmax>
+			<ymax>671</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pharmacy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>600</ymin>
+			<xmax>84</xmax>
+			<ymax>639</ymax>
+		</bndbox>
+	</object>
+</annotation>

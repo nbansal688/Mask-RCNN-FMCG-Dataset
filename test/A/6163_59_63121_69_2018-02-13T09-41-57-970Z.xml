@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Akshay</folder>
+	<filename>6163_59_63121_69_2018-02-13T09-41-57-970Z.jpg</filename>
+	<path>/home/stallians/Downloads/ashish 2/Akshay/6163_59_63121_69_2018-02-13T09-41-57-970Z.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>409</width>
+		<height>728</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ambipure</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>1</ymin>
+			<xmax>323</xmax>
+			<ymax>728</ymax>
+		</bndbox>
+	</object>
+	</annotation>

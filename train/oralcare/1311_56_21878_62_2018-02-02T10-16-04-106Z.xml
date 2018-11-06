@@ -1,0 +1,26 @@
+<annotation>
+	<folder>oralcare</folder>
+	<filename>1311_56_21878_62_2018-02-02T10-16-04-106Z.jpg</filename>
+	<path>/home/stallians/Desktop/folder3/oralcare/1311_56_21878_62_2018-02-02T10-16-04-106Z.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>409</width>
+		<height>728</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>oralb</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>365</ymin>
+			<xmax>326</xmax>
+			<ymax>591</ymax>
+		</bndbox>
+	</object>
+</annotation>

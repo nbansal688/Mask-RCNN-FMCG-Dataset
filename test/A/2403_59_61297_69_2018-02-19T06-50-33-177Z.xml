@@ -1,0 +1,26 @@
+<annotation>
+	<folder>MK</folder>
+	<filename>2403_59_61297_69_2018-02-19T06-50-33-177Z.jpg</filename>
+	<path>C:\Users\Mk\Downloads\Compressed\windows_v1.7.0\windows_v1.7.0\MK\2403_59_61297_69_2018-02-19T06-50-33-177Z.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>409</width>
+		<height>728</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>home</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>273</xmin>
+			<ymin>347</ymin>
+			<xmax>319</xmax>
+			<ymax>440</ymax>
+		</bndbox>
+	</object>
+	</annotation>

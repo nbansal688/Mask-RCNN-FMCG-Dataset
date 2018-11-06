@@ -1,0 +1,26 @@
+<annotation>
+	<folder>oralcare</folder>
+	<filename>3583_55_48603_62_2018-02-05T11-49-30-272Z.jpg</filename>
+	<path>E:\ML-DL\Hackerearth\folder3\oralcare\3583_55_48603_62_2018-02-05T11-49-30-272Z.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>546</width>
+		<height>728</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ambipure</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>476</xmin>
+			<ymin>2</ymin>
+			<xmax>543</xmax>
+			<ymax>232</ymax>
+		</bndbox>
+	</object>
+</annotation>

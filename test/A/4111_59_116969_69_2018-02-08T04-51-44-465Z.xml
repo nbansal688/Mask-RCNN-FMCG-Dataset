@@ -1,0 +1,26 @@
+<annotation>
+	<folder>gillette</folder>
+	<filename>4111_59_116969_69_2018-02-08T04-51-44-465Z.jpg</filename>
+	<path>D:\Ashu\windows_v1.6.1\gillette\4111_59_116969_69_2018-02-08T04-51-44-465Z.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>409</width>
+		<height>728</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ambipure</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>321</ymin>
+			<xmax>398</xmax>
+			<ymax>678</ymax>
+		</bndbox>
+	</object>
+	</annotation>

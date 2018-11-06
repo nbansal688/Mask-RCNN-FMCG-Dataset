@@ -1,0 +1,26 @@
+<annotation>
+	<folder>MK</folder>
+	<filename>2348_59_109437_69_2018-02-17T08-00-22-294Z.jpg</filename>
+	<path>C:\Users\Mk\Downloads\Compressed\windows_v1.7.0\windows_v1.7.0\MK\2348_59_109437_69_2018-02-17T08-00-22-294Z.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>409</width>
+		<height>728</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>venus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>226</ymin>
+			<xmax>269</xmax>
+			<ymax>522</ymax>
+		</bndbox>
+	</object>
+	</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>venus</folder>
+	<filename>2551_57_149481_69_2018-02-13T07-49-40-765Z.jpg</filename>
+	<path>/home/stallians/Desktop/Submission/venus/2551_57_149481_69_2018-02-13T07-49-40-765Z.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>409</width>
+		<height>728</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>venus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>190</xmin>
+			<ymin>486</ymin>
+			<xmax>240</xmax>
+			<ymax>540</ymax>
+		</bndbox>
+	</object>
+</annotation>

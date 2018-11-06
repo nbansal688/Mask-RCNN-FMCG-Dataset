@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Akshay</folder>
+	<filename>5652_56_122559_69_2018-02-05T09-59-06-339Z.jpg</filename>
+	<path>/home/stallians/Downloads/ashish 2/Akshay/5652_56_122559_69_2018-02-05T09-59-06-339Z.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>576</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>beauty</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>41</ymin>
+			<xmax>551</xmax>
+			<ymax>1024</ymax>
+		</bndbox>
+	</object>
+	</annotation>
